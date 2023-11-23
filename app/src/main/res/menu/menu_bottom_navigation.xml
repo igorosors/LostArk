@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemOne"
+        android:enabled="true"
+        android:icon="@drawable/ic_calendar"
+        android:title="Календарь" />
+    <item
+        android:id="@+id/itemTwo"
+        android:enabled="true"
+        android:icon="@drawable/ic_timer"
+        android:title="Выбранные события" />
+
+</menu>

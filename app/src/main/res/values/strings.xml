@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lost Ark Calendar</string>
+    <string name="notification_channel_id">channel_id</string>
+    <string name="notification_channel_name">channel_name</string>
+    <string name="action_snooze">Отложить</string>
+    <string name="action_close">Закрыть</string>
+    <string name="notification_title">Не пропусти!</string>
+    <string name="alert_event_title">Удалить уведомление?</string>
+    <string name="alert_event_negative_button">ОТМЕНИТЬ</string>
+    <string name="alert_event_positive_button">УДАЛИТЬ</string>
+    <string name="internet_exception_text">Нет подключения к сети\nПроверьте мобильное соединение или подключение Wi-Fi</string>
+    <string name="any_exception_text">Что-то пошло не так\nПопробуйте обновить страницу</string>
+    <string name="toast_need_permission">Разрешите приложению отправлять уведомления в настройках</string>
+    <string name="notification_alert_message">За сколько минут до начала напомнить?</string>
+    <string name="notification_alert_negative_button">ОТМЕНИТЬ</string>
+    <string name="notification_alert_positive_button">СОЗДАТЬ</string>
+    <string name="snackbar_error">Что-то пошло не так</string>
+    <string name="event_fragment_empty_state">Здесь отобразятся все события, о которых нужно уведомить</string>
+    <string name="button_refresh">Обновить</string>
+    <string name="snackbar_event_gone">Выбранное время уже прошло</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
